@@ -3,7 +3,9 @@
 
 - 💻 I work at [i22 Digitalagentur](https://i22.de/) in Bonn, Germany where I help building great projects
 
-- 🔭 In my free time I’m currently working on a [digital Shadowrun 6 character sheet](https://github.com/milgner/sr6-character-sheet) which might even become something larger - we'll see
+- 🔭 In my free time I’m currently working on a [digital Shadowrun 6 character sheet](https://github.com/milgner/sr6-character-sheet) 
+
+- 🎲 I'm very interested in building a rule-based (i.e. RETE or similar with corresponding DSL) open-source framework for pen & paper roleplaying tools
 
 - 🔐 I also built and am still extending [keedrop.com](https://keedrop.com/) which is currently undergoing a major enhancement
 
