@@ -1,13 +1,13 @@
-# Hi there 👋, I'm Marcus Ilgner
-### An all-round IT professional who loves solving diverse and complex problems
+# Hi there 👋, I'm Marcus
+#### an all-round IT professional who loves solving diverse and complex problems
 
-- 💻 I work at [i22 Digitalagentur](https://i22.de/) in Bonn, Germany where I help building great projects
+- 💻 By day I work at [i22 Digitalagentur](https://i22.de/) in Bonn, Germany where I help building great projects
 
-- 🔬 In my free time I’m currently working on a [digital Shadowrun 6 character sheet](https://github.com/milgner/sr6-character-sheet) 
+- 🔬 In my free time I learn new technologies by working on pet projects - like a [digital Shadowrun 6 character sheet](https://github.com/milgner/sr6-character-sheet)
 
-- 🔐 I also built and am still extending [keedrop.com](https://keedrop.com/) which is currently undergoing a major enhancement
+- 🔐 I also built and am still extending [keedrop.com](https://keedrop.com/), a tool that helps you to avoid posting passwords via plain-text chat
 
-- 🎲 Apart from that I keep thinking about building a rule-based (i.e. RETE or similar with corresponding DSL) open-source framework for pen & paper roleplaying tools. Mostly as an opportunity for learning the theory behind those, but partly to build an interesting product.
+- 🎲 Apart from that I keep thinking about building a rule-based (declarative) open-source framework for pen & paper roleplaying tools. Mostly as an opportunity to learn more about technologies like [Kogito](https://www.kiegroup.org/), [Vert.x](https://vertx.io/) and [OSGi](https://www.osgi.org/), but partly to build an interesting product, too.
 
 - 💬 I like to discuss up and coming technologies and their impact on society - like useful applications of blockchain technology apart from privately-held money systems
 
