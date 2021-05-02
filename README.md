@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Marcus
 #### an all-round IT professional who loves solving diverse and complex problems
 
-- 💻 By day I work at [i22 Digitalagentur](https://i22.de/) in Bonn, Germany where I help building great projects
+- 💻 My main job (very fresh!) is with RE: GmbH, a new digital branch of [Reifenhäuser](https://reifenhauser.com/)
 
 - 🔬 In my free time I learn new technologies by working on pet projects - like a [digital Shadowrun 6 character sheet](https://github.com/milgner/sr6-character-sheet)
 
